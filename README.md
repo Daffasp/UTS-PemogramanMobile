@@ -1,4 +1,4 @@
-## >PROFIL
+## PROFIL
 | DETAIL    | KETERANGAN      |
 | ----------- | --------------- |
 | NAMA       | Daffa Sadewa Putra   |
@@ -7,5 +7,9 @@
 |DOSEN PENGAMPU| Donny Maulana S.kom., M.M.S.I |
 | MATA KULIAH | PEMROGRAMAN MOBILE |
 
-## >PROJEK APLIKASI BERITA BOLA 
+## PROJEK APLIKASI BERITA BOLA 
+
+## BERITA BOLA
+
+
 
