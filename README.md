@@ -30,6 +30,10 @@ Ini adalah aplikasi tentang berita bola,beberapa berita menarik tentang berita b
 (Akan di tambahkan isi beritanya berkala)
 
 
+## Story Board
+![image](https://github.com/user-attachments/assets/5bdb53bb-6c7d-49db-bdd2-289841700b5c)
+
+
 
 
 
