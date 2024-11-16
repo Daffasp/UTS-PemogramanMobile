@@ -19,6 +19,13 @@ Ini adalah aplikasi tentang berita bola,beberapa berita menarik tentang berita b
 
 ## Home Page
 ![image](https://github.com/user-attachments/assets/a6bb26d8-2076-4040-bfda-5fa37e0eef30)
+(Akan di update secara berkala untuk menambahkan isi beritanya beberapa)
+
+
+## Isi berita saat di klik
+![image](https://github.com/user-attachments/assets/cdba0a39-033b-45fb-902a-5e651808c904)
+
+
 
 
 
