@@ -9,7 +9,9 @@
 
 ## PROJEK APLIKASI BERITA BOLA 
 
-## BERITA BOLA
+## FOOTBAL NEWS
+
+Ini adalah aplikasi tentang berita bola,beberapa berita menarik tentang berita bola yang sedang ramai di perbincangkan
 
 
 
